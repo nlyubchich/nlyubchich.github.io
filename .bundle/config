@@ -1,0 +1,3 @@
+---
+BUNDLE_PATH: "/home/cybran/.ruby-vendor"
+BUNDLE_DISABLE_SHARED_GEMS: "true"
